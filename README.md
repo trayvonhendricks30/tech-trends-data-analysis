@@ -42,3 +42,15 @@ What I Learned
   -Building dashboards to communicate insights
 	
   -Identifying trends from real-world datasets
+
+<img width="630" height="382" alt="image" src="https://github.com/user-attachments/assets/a6df6b75-d929-459a-ab31-0d6f6d1f0e32" />
+
+
+<img width="630" height="358" alt="image" src="https://github.com/user-attachments/assets/53169779-3746-44dc-8faf-4adac79e0fe6" />
+
+
+<img width="631" height="344" alt="image" src="https://github.com/user-attachments/assets/28910c1e-0cc4-481c-a324-8a6d4d818738" />
+
+
+
+
